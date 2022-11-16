@@ -30,6 +30,11 @@ header{
     background-color: red;
 }
 
+.height-100px{
+    height: 100px;
+    background-color: orange;
+}
+
 .height-150px{
     height: 150px;
     background-color: yellow;
