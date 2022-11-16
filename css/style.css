@@ -3,3 +3,36 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    height: 100px;
+    background-color: #2c3e50;
+    width: 100%;
+}
+
+.background-color-fluid{
+    background-color: #1abc9c;
+}
+
+.margin-tb-10px{
+    margin: 10px 0px;
+}
+
+.padding-tb-150px{
+    padding: 150px 0px;
+}
+
+.padding-tb-50px{
+    padding: 50px 0px;
+}
+
+
+.height-50px{
+    height: 50px;
+    background-color: red;
+}
+
+.height-150px{
+    height: 150px;
+    background-color: yellow;
+}
