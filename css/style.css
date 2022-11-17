@@ -76,3 +76,28 @@ body{
     border-radius: 0.5rem;
 }
 
+/* Contact Me! */
+
+label{
+    color: #26384b;
+    font-weight: bold;
+}
+
+input{
+    border:none;
+    border-bottom: 1px solid #dedede;
+}
+
+textarea{
+    height: 100px;
+    border:none;
+    border-bottom: 1px solid #dedede;
+}
+
+input[type=submit]{
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    color: #ffff;
+    background-color: #1abc9c;
+    border-radius: 0.5rem;
+}
