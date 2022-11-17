@@ -54,6 +54,12 @@ footer{
 }
 
 
+.star{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* jumbotron */
 
 #jumbotron{
@@ -64,6 +70,12 @@ footer{
     width: 30%;
 }
 
+.border-solid-2{
+    width: 100px;
+    border: 1px solid;
+    opacity: 1;
+    margin: 0rem 1.5rem;
+}
 
 /* cards */
 
